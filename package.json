@@ -1,0 +1,17 @@
+{
+  "name": "express-ts-backend-starter",
+  "version": "1.0.0",
+  "description": "Express + TypeScript + MongoDB ব্যাকএন্ড স্টার্টার টেমপ্লেট",
+  "main": "bin/index.js",
+  "bin": {
+    "express-ts-backend-starter": "bin/index.js"
+  },
+  "files": [
+    "bin",
+    "template"
+  ],
+  "keywords": ["express", "typescript", "mongodb", "starter", "cli", "backend"],
+  "author": "jihad-dev",
+  "license": "MIT",
+  "preferGlobal": true
+}
