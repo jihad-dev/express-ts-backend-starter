@@ -5,8 +5,8 @@
 ## ✅ ব্যবহার করার নিয়ম
 
 ```bash
-npx express-ts-backend-starter my-api
-cd my-api
+npx express-ts-backend-starter my-project
+cd my-project
 npm install
 npm run dev
 ```
